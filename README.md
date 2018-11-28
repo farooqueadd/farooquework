@@ -1,2 +1,2 @@
 # farooquework
-MY r and python works
+MY R and Python works
